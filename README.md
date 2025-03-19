@@ -4,7 +4,8 @@ MathFlowers An extension for MIT App Inventor 2 by th
 <div align="center">
 <h1><kbd>🧩 MathFlowers</kbd></h1>
 An extension for MIT App Inventor 2.<br>
-MathFlowers lets you create beautiful mathematical flower patterns on a canvas. Set numerator and denominator values to create different patterns, customize colors, line thickness, and special effects like oil paint or dashed lines. Animate your flowers with adjustable speed and rotation.
+MathFlowers lets you create beautiful mathematical flower patterns on a canvas.<br>Set numerator and denominator values to create different patterns,<br>customize colors, line thickness, and special effects like oil paint or dashed lines. Animate your flowers with adjustable speed and rotation.<br>or generate random flowers. You can also control the animation speed, pause/resume drawing, and rotate the flower.<br>You can also save the flower as a PNG or JPEG image file.<br><a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://techhamara.blogspot.com/' target='_blank'>Blogger</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br>
+  <a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
 </div>
 
 ## 📝 Specifications

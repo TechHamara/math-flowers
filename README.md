@@ -33,6 +33,22 @@ MathFlowers lets you create beautiful mathematical flower patterns on a canvas.<
 
 <br>
 
+## Output 
+
+![ebf66865-c6b8-4335-9535-d09e032533b1.gif](https://github.com/user-attachments/assets/292f91c2-462f-4b5e-99d1-ee69cf7898a2)
+
+![41010d97-267e-4416-8f4f-23ddf9585a9c.gif](https://github.com/user-attachments/assets/8c6a1227-22e5-43ac-9ee1-0508d8f57867)
+
+![8ec3e268-47ef-4de4-97bc-06fb9ff47064.gif](https://github.com/user-attachments/assets/124d814f-06a1-477b-abaa-1bc49a9b937d)
+
+![ec2fb261-7f64-4740-adf7-c1ea5b580e43.gif](https://github.com/user-attachments/assets/74faba5c-092e-4940-b555-17b85f1e476b)
+
+![b25d848e-6e7e-4df6-a6af-618dcdc1e1b1.gif](https://github.com/user-attachments/assets/fa3cf280-3439-4ea6-8bfb-ae2782d883fa)
+
+![ca707c3f-ed94-4591-8c63-9dc33744f0ea.gif](https://github.com/user-attachments/assets/1cc1b974-27b1-4ff7-b0c3-96c99816045c)
+
+<br>
+
 ## <kbd>Events:</kbd>
 **MathFlowers** has total 6 events.
 

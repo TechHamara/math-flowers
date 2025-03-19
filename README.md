@@ -29,6 +29,9 @@ MathFlowers lets you create beautiful mathematical flower patterns on a canvas.<
 <br>
 ![photo_2025-03-17_16-40-48](https://github.com/user-attachments/assets/340b1a25-42d7-463f-a667-8fad49690011)
 <br>
+![blocks (1)](https://github.com/user-attachments/assets/a6854c3b-33cc-4fa9-aa13-4ed9d3adcbb7)
+
+<br>
 
 ## <kbd>Events:</kbd>
 **MathFlowers** has total 6 events.
